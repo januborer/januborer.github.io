@@ -10,7 +10,7 @@
 
 [老子](https://januborer.github.io/laozi/)
 
-[藏经阁](https://januborer.github.io/changjingge/)
+[藏经阁](https://januborer.github.io/cangjingge/)
 
 ### 其他
 
