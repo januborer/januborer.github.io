@@ -14,8 +14,8 @@ mdbook build
 cd book
 
 git init
-git branch -m essay-site
-git remote add origin git@github.com:januborer/essay.git
+git branch -m site-code
+git remote add origin git@github.com:januborer/januborer.github.io.git
 
 current_branch=$(git branch --show-current)
 # Add changes to git.
